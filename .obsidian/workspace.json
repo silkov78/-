@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Маршрут/Маршрут \"Вілейскім шляхам\".md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Маршрут/Маршрут \"Вілейскім шляхам\".md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Маршрут/Маршрут \"Вілейскім шляхам\".md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Маршрут/Маршрут \"Вілейскім шляхам\".md"
+                "file": "README.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "a8cea1eadea13ab3",
   "lastOpenFiles": [
-    "Грошы/README.md",
-    "Інвентар/README.md",
     "Маршрут/Маршрут \"Вілейскім шляхам\".md",
-    "Маршрут",
+    "Інвентар/README.md",
     "README.md",
+    "2024-05-07.md",
+    "Грошы/README.md",
+    "Маршрут",
     "Інвентар",
     "Грошы",
     "Welcome.md"
